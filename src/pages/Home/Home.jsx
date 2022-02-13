@@ -68,9 +68,7 @@ function Home() {
                 <Button variant="contained" onClick={search}>
                     Search
                 </Button>
-            </Grid>
-            <Grid>
-                <Button onClick={getSpotifyToken}>token</Button>
+                <Button variant="contained" onClick={getSpotifyToken}>token</Button>
             </Grid>
             <Grid
                 container
