@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  background-position: center;
+  display: flex;
+  background-color: aquamarine;
 }
 
 .App-logo {
