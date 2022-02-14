@@ -3,6 +3,8 @@
   background-position: center;
   display: flex;
   background-color: aquamarine;
+  background-size: cover;
+  min-height: 100vh;
 }
 
 .App-logo {
