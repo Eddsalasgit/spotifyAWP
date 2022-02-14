@@ -65,6 +65,7 @@ function Home() {
                 </FormControl>
             </Grid>
             <Grid item xs={6}>
+            <Button variant="contained" href="https://github.com/Eddsalasgit/spotifyAWP.git" color="success">GitHub</Button>
                 <Button variant="contained" onClick={search}>
                     Search
                 </Button>
